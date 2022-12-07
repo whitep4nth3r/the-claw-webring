@@ -18,5 +18,6 @@
   { "name": "Mike Street", "feed": "https://www.mikestreety.co.uk/rss.xml", "url": "https://www.mikestreety.co.uk/" },
   { "name": "Sia Karamalegos", "feed": "https://sia.codes/feed/feed.xml", "url": "https://sia.codes" },
   { "name": "Robb Knight", "feed": "https://rknight.me/feed.xml", "url": "https://rknight.me" },
-  { "name": "Nick Taylor", "feed": "https://iamdeveloper.com/feed.xml", "url": "https://iamdeveloper.com" }
+  { "name": "Nick Taylor", "feed": "https://iamdeveloper.com/feed.xml", "url": "https://iamdeveloper.com" },
+  { "name": "Matthew Peck-Deloughry", "feed": "https://deloughry.co.uk/feed.xml", "url": "https://deloughry.co.uk" }
 ]
