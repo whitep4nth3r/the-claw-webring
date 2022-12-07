@@ -10,5 +10,6 @@
   { "name": "Phil Hawksworth", "feed": "https://www.hawksworx.com/feed.xml", "url": "https://www.hawksworx.com/" },
   { "name": "Zach Leatherman", "feed": "https://www.zachleat.com/web/feed/", "url": "https://www.zachleat.com/" },
   { "name": "Karin Hendrikse", "feed": "https://khendrikse.netlify.app/feed.xml", "url": "https://khendrikse.netlify.app/" },
-  { "name": "Eduardo Bouças", "feed": null, "url": "https://eduardoboucas.com" }  
+  { "name": "Eduardo Bouças", "feed": null, "url": "https://eduardoboucas.com" },
+  { "name": "Lene Saile", "feed": "https://www.lenesaile.com/en/feed.xml", "url": "https://www.lenesaile.com/" }
 ]
