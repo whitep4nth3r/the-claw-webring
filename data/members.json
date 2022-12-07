@@ -5,5 +5,6 @@
   { "name": "Lars The 18Th", "feed": null, "url": "https://cinicsystems.github.io/" },
   { "name": "Eshaan Mathur", "feed": null, "url": "https://eshaanmathur.com/" },
   { "name": "Max Böck", "feed": "https://mxb.dev/feed.xml", "url": "https://mxb.dev/" },
-  { "name": "Matthew Brandt", "feed": null, "url": "https://mattytwo.shoes/" }
+  { "name": "Matthew Brandt", "feed": null, "url": "https://mattytwo.shoes/" },
+  { "name": "Scott Spence", "feed": "https://scottspence.com/rss.xml", "url": "https://scottspence.com" }
 ]
