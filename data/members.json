@@ -16,5 +16,6 @@
   { "name": "Charlie Groll", "feed": null, "url": "https://charliegroll.com/" },
   { "name": "Stuart Langridge", "feed": "https://kryogenix.org/days/feed", "url": "https://kryogenix.org/days/" },
   { "name": "Mike Street", "feed": "https://www.mikestreety.co.uk/rss.xml", "url": "https://www.mikestreety.co.uk/" },
-  { "name": "Sia Karamalegos", "feed": "https://sia.codes/feed/feed.xml", "url": "https://sia.codes" }
+  { "name": "Sia Karamalegos", "feed": "https://sia.codes/feed/feed.xml", "url": "https://sia.codes" },
+  { "name": "Nick Taylor", "feed": "https://iamdeveloper.com/feed.xml", "url": "https://iamdeveloper.com" }
 ]
