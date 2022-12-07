@@ -1,0 +1,9 @@
+# example netlify.toml
+[build]
+  command = "# no build command"
+  publish = "."
+
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+  Access-Control-Allow-Origin = "*"
