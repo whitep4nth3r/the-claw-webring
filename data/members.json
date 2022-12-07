@@ -1,8 +1,8 @@
 [
-  { "title": "Salma Alam-Naylor", "feed": "https://whitep4nth3r.com/feed.xml", "url": "https://whitep4nth3r.com" },
-  { "title": "Dylan Beattie", "feed": null, "url": "https://dylanbeattie.net/" },
-  { "title": "Taylor Drayson", "feed": null, "url": "https://taylordrayson.com/" },
-  { "title": "Lars The 18Th", "feed": null, "url": "https://cinicsystems.github.io/" },
-  { "title": "Eshaan Mathur", "feed": null, "url": "https://eshaanmathur.com/" },
-  { "title": "Max Böck", "feed": "https://mxb.dev/feed.xml", "url": "https://mxb.dev/" }
+  { "name": "Salma Alam-Naylor", "feed": "https://whitep4nth3r.com/feed.xml", "url": "https://whitep4nth3r.com" },
+  { "name": "Dylan Beattie", "feed": null, "url": "https://dylanbeattie.net/" },
+  { "name": "Taylor Drayson", "feed": null, "url": "https://taylordrayson.com/" },
+  { "name": "Lars The 18Th", "feed": null, "url": "https://cinicsystems.github.io/" },
+  { "name": "Eshaan Mathur", "feed": null, "url": "https://eshaanmathur.com/" },
+  { "name": "Max Böck", "feed": "https://mxb.dev/feed.xml", "url": "https://mxb.dev/" }
 ]
