@@ -5,7 +5,7 @@ To add your site to The Claw Webring, edit [data/members.json](data/members.json
 ```json
 [
   {
-    "title": "Your name",
+    "name": "Your name",
     "feed": "https://yourfeedurl OR null",
     "url": "https://yourwebsiteurl"
   }
