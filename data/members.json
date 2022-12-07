@@ -9,10 +9,11 @@
   { "name": "Scott Spence", "feed": "https://scottspence.com/rss.xml", "url": "https://scottspence.com" },
   { "name": "Phil Hawksworth", "feed": "https://www.hawksworx.com/feed.xml", "url": "https://www.hawksworx.com/" },
   { "name": "Zach Leatherman", "feed": "https://www.zachleat.com/web/feed/", "url": "https://www.zachleat.com/" },
-  { "name": "Benjamin Read", "feed": "https://deliciousreverie.co.uk/rss.xml", "url": "https://deliciousreverie.co.uk" }
+  { "name": "Benjamin Read", "feed": "https://deliciousreverie.co.uk/rss.xml", "url": "https://deliciousreverie.co.uk" },
   { "name": "Karin Hendrikse", "feed": "https://khendrikse.netlify.app/feed.xml", "url": "https://khendrikse.netlify.app/" },
   { "name": "Eduardo Bouças", "feed": null, "url": "https://eduardoboucas.com" },
   { "name": "Lene Saile", "feed": "https://www.lenesaile.com/en/feed.xml", "url": "https://www.lenesaile.com/" },
   { "name": "Charlie Groll", "feed": null, "url": "https://charliegroll.com/" },
-  { "name": "Stuart Langridge", "feed": "https://kryogenix.org/days/feed", "url": "https://kryogenix.org/days/" }
+  { "name": "Stuart Langridge", "feed": "https://kryogenix.org/days/feed", "url": "https://kryogenix.org/days/" },
+  { "name": "Mike Street", "feed": "https://www.mikestreety.co.uk/rss.xml", "url": "https://www.mikestreety.co.uk/" }
 ]
