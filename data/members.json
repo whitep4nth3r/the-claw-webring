@@ -4,5 +4,6 @@
   { "title": "Taylor Drayson", "feed": null, "url": "https://taylordrayson.com/" },
   { "title": "Lars The 18Th", "feed": null, "url": "https://cinicsystems.github.io/" },
   { "title": "Eshaan Mathur", "feed": null, "url": "https://eshaanmathur.com/" },
-  { "title": "Max Böck", "feed": "https://mxb.dev/feed.xml", "url": "https://mxb.dev/" }
+  { "title": "Max Böck", "feed": "https://mxb.dev/feed.xml", "url": "https://mxb.dev/" },
+  { "title": "Colin Morris", "feed": "https://vonexplaino.com/blog/rss.xml", "url": "https://vonexplaino.com/"}
 ]
