@@ -9,8 +9,16 @@
   { "name": "Scott Spence", "feed": "https://scottspence.com/rss.xml", "url": "https://scottspence.com" },
   { "name": "Phil Hawksworth", "feed": "https://www.hawksworx.com/feed.xml", "url": "https://www.hawksworx.com/" },
   { "name": "Zach Leatherman", "feed": "https://www.zachleat.com/web/feed/", "url": "https://www.zachleat.com/" },
-  { "name": "Benjamin Read", "feed": "https://deliciousreverie.co.uk/rss.xml", "url": "https://deliciousreverie.co.uk" },
-  { "name": "Karin Hendrikse", "feed": "https://khendrikse.netlify.app/feed.xml", "url": "https://khendrikse.netlify.app/" },
+  {
+    "name": "Benjamin Read",
+    "feed": "https://deliciousreverie.co.uk/rss.xml",
+    "url": "https://deliciousreverie.co.uk"
+  },
+  {
+    "name": "Karin Hendrikse",
+    "feed": "https://khendrikse.netlify.app/feed.xml",
+    "url": "https://khendrikse.netlify.app/"
+  },
   { "name": "Eduardo Bouças", "feed": null, "url": "https://eduardoboucas.com" },
   { "name": "Lene Saile", "feed": "https://www.lenesaile.com/en/feed.xml", "url": "https://www.lenesaile.com/" },
   { "name": "Charlie Groll", "feed": null, "url": "https://charliegroll.com/" },
@@ -23,6 +31,6 @@
   { "name": "Colin Morris", "feed": "https://vonexplaino.com/blog/rss.xml", "url": "https://vonexplaino.com/" },
   { "name": "Sara Joy", "feed": "https://sarajoy.dev/rss.xml", "url": "https://sarajoy.dev" },
   { "name": "foreverliketh.is", "feed": null, "url": "https://foreverliketh.is/" },
-  { "name": "Mike Elsmore", "feed": null, "url": "https://elsmore.me/" }
+  { "name": "Mike Elsmore", "feed": null, "url": "https://elsmore.me/" },
   { "name": "Martin Hicks", "feed": null, "url": "https://martinhicks.net" }
 ]
