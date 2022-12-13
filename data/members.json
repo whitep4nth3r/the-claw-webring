@@ -22,5 +22,6 @@
   { "name": "Matthew Peck-Deloughry", "feed": "https://deloughry.co.uk/feed.xml", "url": "https://deloughry.co.uk" },
   { "name": "Colin Morris", "feed": "https://vonexplaino.com/blog/rss.xml", "url": "https://vonexplaino.com/" },
   { "name": "Sara Joy", "feed": "https://sarajoy.dev/rss.xml", "url": "https://sarajoy.dev" },
-  { "name": "foreverliketh.is", "feed": null, "url": "https://foreverliketh.is/" }
+  { "name": "foreverliketh.is", "feed": null, "url": "https://foreverliketh.is/" },
+  { "name": "Mike Elsmore", "feed": null, "url": "https://elsmore.me/" }
 ]
