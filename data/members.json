@@ -12,7 +12,7 @@
   {
     "name": "Benjamin Read",
     "feed": "https://deliciousreverie.co.uk/rss.xml",
-    "url": "https://deliciousreverie.co.uk"
+    "url": "https://deliciousreverie.co.uk/"
   },
   {
     "name": "Karin Hendrikse",
@@ -34,3 +34,4 @@
   { "name": "Mike Elsmore", "feed": null, "url": "https://elsmore.me/" },
   { "name": "Martin Hicks", "feed": null, "url": "https://martinhicks.net/" }
 ]
+/""
