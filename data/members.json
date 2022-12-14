@@ -1,12 +1,12 @@
 [
-  { "name": "Salma Alam-Naylor", "feed": "https://whitep4nth3r.com/feed.xml", "url": "https://whitep4nth3r.com" },
+  { "name": "Salma Alam-Naylor", "feed": "https://whitep4nth3r.com/feed.xml", "url": "https://whitep4nth3r.com/" },
   { "name": "Dylan Beattie", "feed": null, "url": "https://dylanbeattie.net/" },
   { "name": "Taylor Drayson", "feed": null, "url": "https://taylordrayson.com/" },
   { "name": "Lars The 18Th", "feed": null, "url": "https://cinicsystems.github.io/" },
   { "name": "Eshaan Mathur", "feed": null, "url": "https://eshaanmathur.com/" },
   { "name": "Max Böck", "feed": "https://mxb.dev/feed.xml", "url": "https://mxb.dev/" },
   { "name": "Matthew Brandt", "feed": null, "url": "https://mattytwo.shoes/" },
-  { "name": "Scott Spence", "feed": "https://scottspence.com/rss.xml", "url": "https://scottspence.com" },
+  { "name": "Scott Spence", "feed": "https://scottspence.com/rss.xml", "url": "https://scottspence.com/" },
   { "name": "Phil Hawksworth", "feed": "https://www.hawksworx.com/feed.xml", "url": "https://www.hawksworx.com/" },
   { "name": "Zach Leatherman", "feed": "https://www.zachleat.com/web/feed/", "url": "https://www.zachleat.com/" },
   {
@@ -19,18 +19,18 @@
     "feed": "https://khendrikse.netlify.app/feed.xml",
     "url": "https://khendrikse.netlify.app/"
   },
-  { "name": "Eduardo Bouças", "feed": null, "url": "https://eduardoboucas.com" },
+  { "name": "Eduardo Bouças", "feed": null, "url": "https://eduardoboucas.com/" },
   { "name": "Lene Saile", "feed": "https://www.lenesaile.com/en/feed.xml", "url": "https://www.lenesaile.com/" },
   { "name": "Charlie Groll", "feed": null, "url": "https://charliegroll.com/" },
   { "name": "Stuart Langridge", "feed": "https://kryogenix.org/days/feed", "url": "https://kryogenix.org/days/" },
   { "name": "Mike Street", "feed": "https://www.mikestreety.co.uk/rss.xml", "url": "https://www.mikestreety.co.uk/" },
-  { "name": "Sia Karamalegos", "feed": "https://sia.codes/feed/feed.xml", "url": "https://sia.codes" },
-  { "name": "Robb Knight", "feed": "https://rknight.me/feed.xml", "url": "https://rknight.me" },
-  { "name": "Nick Taylor", "feed": "https://iamdeveloper.com/feed.xml", "url": "https://iamdeveloper.com" },
-  { "name": "Matthew Peck-Deloughry", "feed": "https://deloughry.co.uk/feed.xml", "url": "https://deloughry.co.uk" },
+  { "name": "Sia Karamalegos", "feed": "https://sia.codes/feed/feed.xml", "url": "https://sia.codes/" },
+  { "name": "Robb Knight", "feed": "https://rknight.me/feed.xml", "url": "https://rknight.me/" },
+  { "name": "Nick Taylor", "feed": "https://iamdeveloper.com/feed.xml", "url": "https://iamdeveloper.com/" },
+  { "name": "Matthew Peck-Deloughry", "feed": "https://deloughry.co.uk/feed.xml", "url": "https://deloughry.co.uk/" },
   { "name": "Colin Morris", "feed": "https://vonexplaino.com/blog/rss.xml", "url": "https://vonexplaino.com/" },
-  { "name": "Sara Joy", "feed": "https://sarajoy.dev/rss.xml", "url": "https://sarajoy.dev" },
+  { "name": "Sara Joy", "feed": "https://sarajoy.dev/rss.xml", "url": "https://sarajoy.dev/" },
   { "name": "foreverliketh.is", "feed": null, "url": "https://foreverliketh.is/" },
   { "name": "Mike Elsmore", "feed": null, "url": "https://elsmore.me/" },
-  { "name": "Martin Hicks", "feed": null, "url": "https://martinhicks.net" }
+  { "name": "Martin Hicks", "feed": null, "url": "https://martinhicks.net/" }
 ]
