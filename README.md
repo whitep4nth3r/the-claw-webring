@@ -1,4 +1,4 @@
-# The Claw Webring
+# Join The Claw Webring
 
 To add your site to The Claw Webring, edit [data/members.json](data/members.json).
 
