@@ -1,0 +1,27 @@
+name: Pull Requests
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened]
+    paths:
+      - 'data/members.json'
+  push:
+    branches:
+      - 'feature/pr-workflow'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: "Check changes files"
+    steps:
+      - name: Check changes files
+        uses: actions/checkout@v2
+        with:
+            fetch-depth: 0
+      - name: Validate Members
+        shell: bash
+        run: |
+          git fetch origin main
+          chmod +x ./workflows/validate-members.sh
+          bash ./workflows/validate-members.sh
