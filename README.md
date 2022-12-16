@@ -18,9 +18,3 @@ Add just two lines of code to your website. Updates published to the component w
 
 [Visit The Claw Webring Widget repository](https://github.com/whitep4nth3r/the-claw-webring-widget/blob/main/README.md)
 for more information including fallback content and styles for the widget in case JavaScript isn't available.
-
-```html
-<script src="https://the-claw-webring-widget.netlify.app/the-claw-webring-widget.mjs" type="module"></script>
-
-<the-claw-webring-widget />
-```
