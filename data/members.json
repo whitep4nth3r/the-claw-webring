@@ -32,5 +32,6 @@
   { "name": "Sara Joy", "feed": "https://sarajoy.dev/rss.xml", "url": "https://sarajoy.dev/" },
   { "name": "foreverliketh.is", "feed": null, "url": "https://foreverliketh.is/" },
   { "name": "Mike Elsmore", "feed": null, "url": "https://elsmore.me/" },
-  { "name": "Martin Hicks", "feed": null, "url": "https://martinhicks.net/" }
+  { "name": "Martin Hicks", "feed": null, "url": "https://martinhicks.net/" },
+  { "name": "William Hermozo", "feed": "https://williamhzo.me/rss.xml", "url": "https://williamhzo.me/" }
 ]
