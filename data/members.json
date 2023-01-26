@@ -34,4 +34,12 @@
   { "name": "Mike Elsmore", "feed": null, "url": "https://elsmore.me/" },
   { "name": "Martin Hicks", "feed": null, "url": "https://martinhicks.net/" },
   { "name": "William Hermozo", "feed": "https://williamhzo.me/rss.xml", "url": "https://williamhzo.me/" }
+  [
+  {
+    "name": "Charles Villard",
+    "feed": "https://charlesvillard.co/rss.xml",
+    "url": "https://charlesvillard.co"
+  }
+]
+
 ]
