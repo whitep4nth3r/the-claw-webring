@@ -26,11 +26,12 @@
   { "name": "Mike Street", "feed": "https://www.mikestreety.co.uk/rss.xml", "url": "https://www.mikestreety.co.uk/" },
   { "name": "Sia Karamalegos", "feed": "https://sia.codes/feed/feed.xml", "url": "https://sia.codes/" },
   { "name": "Robb Knight", "feed": "https://rknight.me/feed.xml", "url": "https://rknight.me/" },
-  { "name": "Nick Taylor", "feed": "https://iamdeveloper.com/feed.xml", "url": "https://iamdeveloper.com/" },
+  { "name": "Nick Taylor", "feed": "https://www.iamdeveloper.com/feed.xml", "url": "https://www.iamdeveloper.com/" },
   { "name": "Matthew Peck-Deloughry", "feed": "https://deloughry.co.uk/feed.xml", "url": "https://deloughry.co.uk/" },
   { "name": "Colin Morris", "feed": "https://vonexplaino.com/blog/rss.xml", "url": "https://vonexplaino.com/" },
   { "name": "Sara Joy", "feed": "https://sarajoy.dev/rss.xml", "url": "https://sarajoy.dev/" },
   { "name": "foreverliketh.is", "feed": null, "url": "https://foreverliketh.is/" },
   { "name": "Mike Elsmore", "feed": null, "url": "https://elsmore.me/" },
-  { "name": "Martin Hicks", "feed": null, "url": "https://martinhicks.net/" }
+  { "name": "Martin Hicks", "feed": null, "url": "https://martinhicks.net/" },
+  { "name": "William Hermozo", "feed": "https://williamhzo.me/rss.xml", "url": "https://williamhzo.me/" }
 ]
