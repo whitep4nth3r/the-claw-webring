@@ -86,5 +86,10 @@
     "name": "Charles Villard",
     "feed": "https://charlesvillard.co/rss.xml",
     "url": "https://charlesvillard.co"
+  },
+  {
+    "name": "Nikkhiel Seath",
+    "feed": null,
+    "url": "https://snikhill.tech/"
   }
 ]
