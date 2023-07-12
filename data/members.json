@@ -35,6 +35,11 @@
     "feed": "https://khendrikse.netlify.app/feed.xml",
     "url": "https://khendrikse.netlify.app/"
   },
+  {
+    "name": "Piet van Zoen",
+    "feed": "https://piet.me/feed.xml",
+    "url": "https://piet.me/"
+  },
   { "name": "Eduardo Bouças", "feed": null, "url": "https://eduardoboucas.com/" },
   {
     "name": "Lene Saile",
