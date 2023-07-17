@@ -81,10 +81,10 @@
   { "name": "Sara Joy", "feed": "https://sarajoy.dev/rss.xml", "url": "https://sarajoy.dev/" },
   { "name": "foreverliketh.is", "feed": null, "url": "https://foreverliketh.is/" },
   { "name": "Mike Elsmore", "feed": null, "url": "https://elsmore.me/" },
-  { 
-    "name": "Martin Hicks", 
-    "feed": "https://martinhicks.dev/feed.xml", 
-    "url": "https://martinhicks.dev/" 
+  {
+    "name": "Martin Hicks",
+    "feed": "https://martinhicks.dev/feed.xml",
+    "url": "https://martinhicks.dev/"
   },
   {
     "name": "William Hermozo",
@@ -100,5 +100,10 @@
     "name": "Nikkhiel Seath",
     "feed": null,
     "url": "https://snikhill.tech/"
+  },
+  {
+      "name": "Cory Dransfeldt",
+      "feed": "https://coryd.dev/feed.xml",
+      "url": "https://coyd.dev/"
   }
 ]
