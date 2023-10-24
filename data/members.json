@@ -102,13 +102,10 @@
     "url": "https://snikhill.tech/"
   },
   {
-      "name": "Cory Dransfeldt",
-      "feed": "https://coryd.dev/feed.xml",
-      "url": "https://coyd.dev/"
-  }
-]
-
-[
+    "name": "Cory Dransfeldt",
+    "feed": "https://coryd.dev/feed.xml",
+    "url": "https://coyd.dev/"
+  },
   {
     "name": "Aevisia",
     "feed": "https://thecozy.cat/blog/category/personal-blog/feed",
