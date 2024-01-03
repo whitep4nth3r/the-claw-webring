@@ -110,5 +110,10 @@
     "name": "Aevisia",
     "feed": "https://thecozy.cat/blog/category/personal-blog/feed",
     "url": "https://thecozy.cat/"
+  },
+  {
+    "name": "TLock",
+    "feed": null,
+    "url": "https://tlock.dev/"
   }
 ]
