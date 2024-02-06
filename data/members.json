@@ -115,5 +115,12 @@
     "name": "TLock",
     "feed": null,
     "url": "https://tlock.dev/"
+  }, 
+  
+  {
+    "name": "Njeri Cooper",
+    "feed": "https://njeri.codes/feed.xml",
+    "url": "https://njeri.codes/"
   }
+
 ]
