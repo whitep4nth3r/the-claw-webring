@@ -136,6 +136,11 @@
     "name": "Tommi",
     "feed": "https://tommi.space/index.xml",
     "url": "https://tommi.space/"
+  },
+  {
+    "name": "oerrorpage",
+   "feed": "https://oerrorpage.neocities.org/news.xml",
+    "url": "https://oerrorpage.neocities.org/"
   }
 
 ]
