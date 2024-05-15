@@ -139,8 +139,7 @@
   },
   {
     "name": "oerrorpage",
-   "feed": "https://oerrorpage.neocities.org/news.xml",
+    "feed": "https://oerrorpage.neocities.org/news.xml",
     "url": "https://oerrorpage.neocities.org/"
   }
-
 ]
