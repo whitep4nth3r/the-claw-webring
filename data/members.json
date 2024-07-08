@@ -115,8 +115,8 @@
     "name": "TLock",
     "feed": null,
     "url": "https://tlock.dev/"
-  }, 
-  
+  },
+
   {
     "name": "Njeri Cooper",
     "feed": "https://njeri.codes/feed.xml",
@@ -141,9 +141,7 @@
     "name": "oerrorpage",
     "feed": "https://oerrorpage.neocities.org/news.xml",
     "url": "https://oerrorpage.neocities.org/"
-  }
-]
-[
+  },
   {
     "name": "Zachary Kai",
     "feed": "https://zacharykai.net/assets/rss.xml",
