@@ -146,5 +146,10 @@
     "name": "Zachary Kai",
     "feed": "https://zacharykai.net/assets/rss.xml",
     "url": "https://zacharykai.net/"
+  },
+  {
+    "name": "Andrew James",
+    "feed": "https://ajames.dev/rss",
+    "url": "https://ajames.dev"
   }
 ]
