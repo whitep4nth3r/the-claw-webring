@@ -151,5 +151,10 @@
     "name": "Andrew James",
     "feed": "https://ajames.dev/rss",
     "url": "https://ajames.dev"
-  }
+  },
+  {
+    "name": "Tori Hall",
+    "feed": null,
+    "url:" "https://toriii.neocities.org/"
+  },
 ]
