@@ -162,11 +162,14 @@
     "feed": null,
     "url": "https://matteosantoro.dev/"
   },
-  [
   {
     "name": "Sabrina Medwinter",
     "feed": "https://www.sabrinamedwinter.com/feed.xml",
     "url": "https://sabrinamedwinter.com/"
+  },
+  {
+    "name": "Mike Chen",
+    "feed": null,
+    "url": "https://mikechen.io/"
   }
-]
 ]
