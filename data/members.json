@@ -233,5 +233,10 @@
     "name": "Conor Meagher",
     "feed": "https://conr.dev/feed/feed.xml",
     "url": "https://conr.dev/"
+  },
+    {
+    "name": "Steve Woodson",
+    "feed": "https://stevenwoodson.com/feed/",
+    "url": "https://stevenwoodson.com//"
   }
 ]
