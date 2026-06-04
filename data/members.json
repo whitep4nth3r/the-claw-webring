@@ -238,5 +238,10 @@
     "name": "Steve Woodson",
     "feed": "https://stevenwoodson.com/feed/",
     "url": "https://stevenwoodson.com/"
+  },
+  {
+    "name": "Emilia Williamson",
+    "feed": "https://emiliawil.dev/rss.xml",
+    "url": "https://www.emiliawil.dev/"
   }
 ]
