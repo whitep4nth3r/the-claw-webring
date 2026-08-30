@@ -243,5 +243,10 @@
     "name": "Emilia Williamson",
     "feed": "https://emiliawil.dev/rss.xml",
     "url": "https://www.emiliawil.dev/"
+  },
+  {
+    "name": "Neil E. Hodges",
+    "feed": "https://wf.kawa-kun.com/feed/",
+    "url": "https://wf.kawa-kun.com/"
   }
 ]
